@@ -6,4 +6,4 @@ This study focuses on monitoring glacier changes using multispectral satellite d
 
 
 
-To visualise the report download the file at the following link: 📄 https://github.com/Ellenn17/AdamelloGlacier/raw/main/EllenPoli10728490_1.pdf
+To visualise the report download the file at the following link: 📄 https://github.com/Ellenn17/AdamelloGlacier/raw/main/Report_AdamelloRetreat.pdf
